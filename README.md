@@ -1,4 +1,4 @@
-Engineered a basic secure banking platform using reactJS, Spring Boot, and
+We Engineered a basic secure banking platform using reactJS, Spring Boot, and
 MySQL. Enabled user and admin dashboards for transactions, account management, and authentication with real
 time data persistence.
 ### Features of this project
